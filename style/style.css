@@ -1,0 +1,102 @@
+
+body{
+  
+  background-image: url("https://image.freepik.com/foto-gratis/texturas-vintage-fondos-de-madera_29402-4.jpg");
+  -webkit-background-size: cover;
+  background: cover;
+  background-attachment: fixed;
+  font-size: 2rem;
+
+
+}
+
+label{
+ 
+    font-size: 20px;
+    color: white;
+ }
+ .nav-link {
+    display: block;
+    padding: 0.3rem 1rem;
+
+}
+.m{
+    background:#13a4c594;
+    border:none;
+    color:#fff;
+    width: 100%;
+    padding: 10px 0;
+    font-weight: normal;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.forgot {
+    margin-top:-30px;
+    padding:15px;
+    font-size: 1rem;
+}
+
+.contenedor-input {
+    position: relative;
+    margin-bottom: 10px;
+
+}
+.btn-primary:hover {
+    color: brown;
+    background-color: brown;
+    border-color: #0062cc;
+}
+.container-form{
+    background: rgba(0,0,0,.2);
+    width: 50%;
+    height: 50%;
+    margin: 48px auto;
+    border-radius: 2px;
+}
+input{
+      font-size: 14px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 5px 10px;
+    background: #EEDDD2;
+
+    border: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    border-radius: 0;
+    transition: all 0.5s ease;
+    border-radius: 5px;
+      outline: none;
+        border-color: #542F1D;
+
+  
+}
+.p{
+     font-size: 14px;
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    background: #b7cccd;
+    color: white;
+
+    border: 5px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    border-radius: 3;
+      outline: none;
+     border-color: #e5d7c7;
+
+}
+label{
+    font-size:15px;
+    left: 2px;
+
+}
+        
